@@ -2,8 +2,8 @@ import pygame
 from pygame.locals import *
 import sys
 
-posX = 800
-posY = 600
+posX = 1600
+posY = 900
 
 pygame.init()
 protoDispInit = pygame.display.set_mode((posX, posY))
